@@ -9,6 +9,6 @@ Ovo web sjedište implementirano kao web trgovina za prodaju luksuznih satova bi
 * PHP
 * JavaScript
 
-## Svi file-ovi su priloženi u dokumentu Luxxury Zagreb
+## Svi file-ovi su priloženi u folderu Luxxury Zagreb
 ## Dizajn i izgled web trgovine može se provjeriti u Završni rad - Inernetski dućan - Klarić.pdf
 
