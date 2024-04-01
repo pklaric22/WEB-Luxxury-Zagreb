@@ -1,7 +1,7 @@
 # WEB-Luxxury-Zagreb
 ## Opis
 
-Ovo web sjedište implementirano kao web trgovina za prodaju luksuznih satova bilo je završni rad u Tehničkoj školi Ruđera Boškovića gdje sam stekao zvanje Tehničar za računalstvo.
+This web site, implemented as a web store for the sale of luxury watches, was the final project at the Ruđer Bošković Technical School, where I obtained the title of Computer Technician.
 
 ## Korištene tehnologije
 * HTML 5
