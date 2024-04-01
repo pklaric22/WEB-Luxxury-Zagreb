@@ -1,14 +1,14 @@
 # WEB-Luxxury-Zagreb
-## Opis
+## Description
 
 This web site, implemented as a web store for the sale of luxury watches, was the final project at the Ruđer Bošković Technical School, where I obtained the title of Computer Technician.
 
-## Korištene tehnologije
+## Technologies used
 * HTML 5
 * CSS
 * PHP
 * JavaScript
 
-## Svi file-ovi su priloženi u folderu Luxxury Zagreb
-## Dizajn i izgled web trgovine može se provjeriti u Završni rad - Inernetski dućan - Klarić.pdf
+## All files are attached in the Luxxury Zagreb folder
+## The design and appearance of the web store can be viewed in Završni rad - Inernetski dućan - Klarić.pdf
 
